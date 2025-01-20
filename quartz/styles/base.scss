@@ -19,7 +19,8 @@ section {
 }
 
 .text-highlight {
-  background-color: var(--textHighlight);
+  color: var(--textHighlight);
+  font-weight: 1000;
   padding: 0 0.1rem;
   border-radius: 5px;
 }

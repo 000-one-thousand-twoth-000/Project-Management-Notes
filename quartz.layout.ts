@@ -10,6 +10,7 @@ export const sharedPageComponents: SharedLayout = {
     links: {
       GitHub: "https://github.com/jackyzha0/quartz",
       "Discord Community": "https://discord.gg/cRFFHYye7t",
+      "GitHub заметок": "https://github.com/000-one-thousand-twoth-000/Project-Management-Notes",
     },
   }),
 }
